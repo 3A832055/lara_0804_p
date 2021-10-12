@@ -1,10 +1,12 @@
 {
     "name": "bravc/lara_0804_p",
-    "authors": [
-        {
-            "name": "蔡羽宣",
-            "email": "3a832055@gm.student.ncut.edu.tw"
-        }
-    ],
-    "require": {}
+    "authors": [{
+        "name": "蔡羽宣",
+        "email": "3a832055@gm.student.ncut.edu.tw"
+    }],
+    "require": {
+        "nesbot/carbon": "^2.39.0",
+        "monolog/monolog": "^2.3"
+
+    }
 }
